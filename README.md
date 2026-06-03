@@ -1,4 +1,4 @@
-![ClinIQ ](assets/cliniq.png)
+![ClinIQ Dashboard](ClinIQ.png)
 
 # 🏥 ClinIQ — Autonomous Multi-Agent Clinical Intelligence Platform
 
