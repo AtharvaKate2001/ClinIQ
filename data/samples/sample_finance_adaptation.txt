@@ -1,0 +1,113 @@
+CREDIT RISK ASSESSMENT REPORT
+Domain: Finance | Analyst: AI Risk Engine | Date: December 2024
+
+═══════════════════════════════════════════════════════════════
+ENTITY: TechVenture Corp Ltd
+Entity Type: Mid-cap Technology Company | Sector: B2B SaaS
+Credit Rating (External): BB+ (Fitch) | Internal Rating: B+
+Request Type: Revolving Credit Facility — USD 50 Million | Tenor: 36 months
+
+═══════════════════════════════════════════════════════════════
+FINANCIAL SUMMARY (FY2024):
+Revenue: USD 142M (YoY +18%) | EBITDA: USD 28M | EBITDA Margin: 19.7%
+Net Income: USD 8.2M | Operating Cash Flow: USD 22M | Free Cash Flow: USD 14M
+Total Assets: USD 310M | Total Debt: USD 185M | Net Debt: USD 161M
+
+KEY RATIOS:
+Net Debt / EBITDA: 5.75x (HIGH — covenant threshold 4.5x — BREACH RISK)
+Interest Coverage (EBIT/Interest): 2.1x (WEAK — below investment grade threshold 3x)
+Current Ratio: 1.1x (adequate) | Quick Ratio: 0.9x
+Debt / Equity: 2.8x | Total Liabilities / Equity: 3.4x
+
+REVENUE COMPOSITION:
+Recurring (ARR): 72% | Professional Services: 18% | One-time Licences: 10%
+ARR Growth: 24% YoY | Net Revenue Retention: 108% | Churn Rate: 8.2% annually
+Average Contract Value: USD 145K | Sales Cycle: 6-9 months
+
+CASH POSITION: USD 24M (as of Sep 2024) — 3.2 months operating runway at current burn
+
+═══════════════════════════════════════════════════════════════
+CURRENT DEBT STRUCTURE:
+1. Term Loan A — USD 80M @ SOFR+280bps | Maturity: March 2026 — REFINANCING RISK
+2. Term Loan B — USD 65M @ SOFR+420bps | Maturity: March 2028
+3. Revolving Credit Facility — USD 40M | Drawn: USD 35M (87.5% utilisation — HIGH)
+4. Convertible Notes — USD 0 (matured Aug 2024 — successfully repaid)
+5. Equipment Financing — USD 5M | Maturity: Dec 2025
+
+KEY COVENANTS (Term Loan A):
+□ Net Leverage ≤ 4.5x: CURRENT 5.75x — IN BREACH (waiver obtained Q3 2024)
+□ Interest Coverage ≥ 3.0x: CURRENT 2.1x — IN BREACH (waiver obtained Q3 2024)
+□ Minimum Liquidity USD 15M: CURRENT 24M — COMPLIANT (tight)
+
+WAIVER STATUS: Two covenant waivers obtained Q3 2024 — lenders granted 12-month cure period.
+Failure to cure by September 2025 could trigger cross-default on all facilities.
+
+═══════════════════════════════════════════════════════════════
+RISK FACTORS IDENTIFIED:
+
+FINANCIAL RISKS:
+1. Leverage: Net Debt/EBITDA 5.75x — significantly above peer median 3.2x
+2. Refinancing Risk: USD 80M Term Loan A matures March 2026 — 15 months away
+   Currently trading at 94 cents (6% discount) — market pricing elevated credit risk
+3. Interest Rate Exposure: 78% floating rate debt — 100bps SOFR increase adds USD 1.4M annual interest
+4. Liquidity: Only USD 24M cash; RCF 87.5% drawn — limited headroom for adverse events
+5. Cash Conversion: FCF/Net Income 171% is strong, but FCF coverage of debt service only 1.4x
+
+OPERATIONAL RISKS:
+1. Customer Concentration: Top 3 clients = 38% of ARR — loss of one is material
+2. Churn: 8.2% annual churn in a 72% ARR business creates compounding revenue pressure
+3. Competitive: Facing competition from AWS/Azure native offerings and PE-backed rivals
+4. Key Person: CEO and CTO have no-compete for 18 months only — succession risk
+
+MACRO/MARKET RISKS:
+1. Technology sector multiple compression — EV/Revenue declined from 12x (2021) to 4.2x (2024)
+2. Tightening credit conditions — refinancing at current terms unlikely; expect wider spreads
+3. FX exposure: 32% revenue in EUR and GBP — USD strengthening headwind
+
+═══════════════════════════════════════════════════════════════
+COVENANT COMPLIANCE SCHEDULE:
+                    Q4 2024    Q1 2025    Q2 2025    Q3 2025
+Net Leverage Max:    4.5x       4.5x       4.5x       4.5x
+Net Leverage Act:    5.75x      5.2x(E)    4.8x(E)    4.3x(E)
+Status:              BREACH     BREACH     BREACH     CURED(E)
+
+Interest Cov Min:    3.0x       3.0x       3.0x       3.0x
+Interest Cov Act:    2.1x       2.3x(E)    2.6x(E)    3.1x(E)
+Status:              BREACH     BREACH     BREACH     CURED(E)
+
+Assumptions: Revenue growth 22% H1 2025, EBITDA margin expansion to 22%, no incremental debt.
+═══════════════════════════════════════════════════════════════
+PROPOSED NEW FACILITY:
+Amount: USD 50M Revolving Credit Facility
+Purpose: Working capital + general corporate purposes (replace existing RCF partially)
+Pricing: SOFR + 350bps (vs current SOFR+280bps — step-up for elevated risk)
+Tenor: 36 months (expires Dec 2027)
+Security: First lien on all assets (shared with existing TL-A/TL-B)
+Covenants: Net Leverage ≤5.0x (relaxed from 4.5x), Interest Coverage ≥2.5x, Min Liquidity USD 20M
+
+ANALYST RECOMMENDATION:
+Risk Level: HIGH
+Credit Decision: CONDITIONAL APPROVAL — subject to:
+1. Board-approved refinancing plan for TL-A by June 2025
+2. Quarterly covenant reporting (monthly during waiver period)
+3. Cash sweep: 50% of excess FCF to mandatorily repay RCF
+4. No additional acquisitions >USD 10M without lender consent
+5. Independent financial advisor appointed to review cost structure
+
+Analyst: James K. | Senior Credit Analyst | Date: 15-Dec-2024
+Committee Review: Pending | Risk Committee Date: 19-Dec-2024
+
+═══════════════════════════════════════════════════════════════
+HOW TO ADAPT CLINIQ FOR FINANCE:
+1. Change DOMAIN=finance in .env
+2. Replace knowledge_seeder.py content with:
+   - Basel III/IV capital adequacy guidelines
+   - IFRS 9 expected credit loss model
+   - Altman Z-Score model documentation
+   - Sector-specific financial ratios benchmarks
+   - Regulatory capital requirements (BIS, FCA, RBI)
+3. The agents automatically adapt:
+   - Intake Agent extracts: company financials, debt structure, covenants
+   - Knowledge Agent: retrieves credit guidelines, ratio benchmarks
+   - Risk Agent: scores leverage risk, refinancing risk, liquidity risk
+   - Report Agent: generates credit committee memo
