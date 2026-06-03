@@ -386,7 +386,6 @@ MIT License — see [LICENSE](LICENSE)
 ## 👨‍💻 Author
 
 **Atharva Kate** — AI Engineer  
-[LinkedIn]([https://www.linkedin.com/in/atharva-kate2001/])
 
 ---
 
