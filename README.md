@@ -1,3 +1,5 @@
+![ClinIQ ](assets/cliniq.png)
+
 # 🏥 ClinIQ — Autonomous Multi-Agent Clinical Intelligence Platform
 
 > Drop in any clinical document. Get AI-powered risk analysis, drug interaction checks, evidence-based guidelines, and a fully structured clinical report — powered by a LangGraph multi-agent pipeline.
