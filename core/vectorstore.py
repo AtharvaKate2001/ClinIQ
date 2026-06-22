@@ -31,10 +31,8 @@ class VectorStoreManager:
     def __init__(self) -> None:
         os.makedirs(settings.CHROMA_PERSIST_DIR, exist_ok=True)
 
-        logger.info(f"Loading embedding model: {settings.EMBEDDING_MODEL}")
-        self._embed_model = SentenceTransformer(
-            settings.EMBEDDING_MODEL, trust_remote_code=False
-        )
+        logger.info("Embedding model will be loaded on first use")
+        self._embed_model = None
 
         self._client = chromadb.PersistentClient(
             path=settings.CHROMA_PERSIST_DIR,
@@ -54,7 +52,15 @@ class VectorStoreManager:
     # ── Embedding ─────────────────────────────────────────────────────────────
 
     def embed(self, texts: List[str]) -> List[List[float]]:
-        """Generate L2-normalised embeddings (required for cosine similarity)."""
+        """Generate embeddings with lazy loading."""
+
+        if self._embed_model is None:
+            logger.info(f"Loading embedding model: {settings.EMBEDDING_MODEL}")
+            self._embed_model = SentenceTransformer(
+                settings.EMBEDDING_MODEL,
+                trust_remote_code=False
+            )    
+
         vecs = self._embed_model.encode(texts, normalize_embeddings=True)
         return vecs.tolist()
 
