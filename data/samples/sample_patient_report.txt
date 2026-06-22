@@ -1,0 +1,170 @@
+DISCHARGE SUMMARY — GENERAL INTERNAL MEDICINE
+
+Patient: Sarah Williams | DOB: 14-Jul-1956 | MRN: SW-40291 | Age: 68F
+Ward: Medical 6B | Bed 8 | Admission: 08-Dec-2024 | Discharge: 13-Dec-2024 (LOS: 5 days)
+Attending: Dr. Priya Nair, MD (Internal Medicine) | Resident: Dr. James Okafor, MD
+
+═══════════════════════════════════════════════════════════════
+CHIEF COMPLAINT:
+Severe fatigue, exertional dyspnoea, and lower limb oedema — worsening over 3 weeks.
+
+═══════════════════════════════════════════════════════════════
+HISTORY OF PRESENT ILLNESS:
+Mrs. Williams is a 68-year-old retired teacher with multiple comorbidities presenting with a 
+3-week history of progressive breathlessness on minimal exertion (getting dressed, walking 
+from room to room), bilateral ankle swelling, and severe fatigue. She reports a 6 kg weight 
+gain over the past month. She has had 4-pillow orthopnoea for the past week and two episodes 
+of paroxysmal nocturnal dyspnoea this week. She denies fever, cough, haemoptysis, or chest 
+pain. Her daughter noticed her lips appear slightly blue.
+
+She was hospitalised for a similar episode 4 months ago (HF exacerbation).
+
+═══════════════════════════════════════════════════════════════
+PAST MEDICAL HISTORY:
+1. Ischaemic Heart Disease — NSTEMI 2019, PCI to LAD
+2. Chronic Heart Failure with Reduced EF (HFrEF) — EF 35% (last echo 4 months ago)
+3. Type 2 Diabetes Mellitus — 10 years, on insulin
+4. Chronic Kidney Disease Stage 3a (eGFR 48 mL/min baseline)
+5. Atrial Fibrillation — Permanent, on anticoagulation
+6. Hypothyroidism
+7. Osteoporosis — On bisphosphonate
+8. Previous TIA — 2021
+
+SURGICAL HISTORY: Appendicectomy (1985), Right knee replacement (2018)
+
+SOCIAL HISTORY: Non-smoker. Occasional alcohol (1-2 units/week). Lives alone. 
+Daughter visits daily. Independent baseline.
+
+FAMILY HISTORY: Mother — MI at 72. Father — T2DM, stroke. Daughter — HTN.
+
+═══════════════════════════════════════════════════════════════
+HOME MEDICATIONS:
+1. Sacubitril/Valsartan (Entresto) 49/51 mg twice daily — HFrEF GDMT
+2. Carvedilol 25 mg twice daily — HFrEF beta-blocker
+3. Spironolactone 25 mg once daily — MRA for HFrEF
+4. Furosemide 80 mg once daily — Loop diuretic
+5. Rivaroxaban 20 mg once daily with evening meal — AF anticoagulation
+6. Insulin Glargine 28 units SC nightly
+7. Insulin Aspart: Correction scale (4U if glucose 10-14, 6U if >14 mmol/L)
+8. Levothyroxine 100 mcg once daily (take 30 min before food)
+9. Alendronate 70 mg once weekly (Sunday mornings — with water, upright 30 min)
+10. Aspirin 75 mg once daily (post-PCI)
+11. Atorvastatin 80 mg once nightly (high-intensity — post-ACS)
+12. Ibuprofen 400 mg PRN — Takes for knee pain "a few times a week"
+13. Omeprazole 20 mg once daily
+
+ALLERGIES: ACE inhibitors (cough — reason for sacubitril/valsartan)
+
+═══════════════════════════════════════════════════════════════
+VITAL SIGNS ON ADMISSION:
+Blood Pressure: 158/94 mmHg | Heart Rate: 108 bpm (irregularly irregular)
+Respiratory Rate: 26/min | O2 Saturation: 88% on room air → 93% on 4L NC
+Temperature: 36.9°C | Weight: 88.2 kg (usual weight ~82 kg)
+GCS: 15/15 | JVP: 6 cm above sternal angle
+
+EXAMINATION:
+General: Breathless on minimal exertion. Pale. No cyanosis at rest.
+CVS: Irregular rhythm, S3 gallop, soft pan-systolic murmur (MR) at apex
+Resp: Bibasal crepitations (to mid-scapular level), dullness R base
+Abdomen: Mild hepatomegaly. Ascites (shifting dullness positive)
+Limbs: 3+ pitting oedema to mid-calf bilaterally
+Neuro: No focal neurological signs
+
+═══════════════════════════════════════════════════════════════
+INVESTIGATIONS:
+
+BLOODS:
+CBC: Hgb 10.8 g/dL | MCV 91 | WBC 9,200 | Platelets 164,000
+
+METABOLIC PANEL:
+Sodium: 132 mEq/L | Potassium: 5.5 mEq/L | Creatinine: 1.9 mg/dL (baseline 1.2)
+eGFR: 31 mL/min (CKD now Stage 3b, worsened from 3a) | BUN: 44 mg/dL
+Bicarbonate: 21 mEq/L | Glucose: 14.2 mmol/L (256 mg/dL) | HbA1c: 9.1%
+Albumin: 3.0 g/dL | Total Protein: 58 g/L | Uric Acid: 0.52 mmol/L
+
+LIVER FUNCTION: Bilirubin 24 μmol/L (mild ↑) | ALT 42 | AST 48 | ALP 112 | GGT 88
+(Mild congestive hepatopathy — expected with ADHF)
+
+THYROID: TSH 2.1 mIU/L (within target — levothyroxine dose appropriate)
+Bone Profile: Ca 2.28 mmol/L (normal) | Phosphate 1.42 mmol/L (high-normal for CKD)
+
+CARDIAC MARKERS:
+BNP: 2,840 pg/mL (severely elevated) | NT-proBNP: 18,200 pg/mL
+Troponin I (high-sensitivity): 82 ng/L (mildly elevated, likely demand ischaemia / type 2 MI)
+Troponin I (6h repeat): 78 ng/L — stable/slightly falling (non-STEMI excluded)
+
+COAGULATION:
+INR: 1.4 (subtherapeutic on rivaroxaban — adherence issue or drug interaction)
+PT: 16.2 sec | aPTT: 38 sec
+
+IRON STUDIES: Ferritin 22 μg/L (LOW) | TIBC 68 μmol/L (elevated) — Iron deficiency anaemia
+B12: 298 pg/mL (normal) | Folate: 8.2 μg/L (normal)
+
+URINALYSIS: 2+ protein | trace blood | no leucocytes | no nitrites
+Urine ACR: 380 mg/g (moderately elevated — A2)
+eGFR with CystC: 28 mL/min (confirming G3b-G4 transition)
+
+IMAGING:
+CXR: Cardiomegaly (CTR 0.58), bilateral pulmonary oedema, bilateral small pleural effusions (R>L)
+ECG: AF rate 108, left axis deviation, no acute ST changes, no LBBB (QRS 110ms)
+Echo (Day 2): LVEF 28% (declined from 35% — 4 months ago), severely impaired systolic function, 
+  Moderate-severe MR (functional), Grade 3 diastolic dysfunction, Dilated LV and LA,
+  RV mildly impaired. Estimated RVSP 42 mmHg (mild pulmonary hypertension).
+  IVC 2.4 cm, minimal respirophasic variation — raised CVP consistent with ADHF.
+
+═══════════════════════════════════════════════════════════════
+CLINICAL DIAGNOSES:
+1. Acute Decompensated Heart Failure — HFrEF, EF 28% (worsened from 35%)
+2. Type 2 Diabetes — Poorly Controlled (HbA1c 9.1%, glucose 14.2 on admission)
+3. Atrial Fibrillation with RVR (rate 108)
+4. Acute Kidney Injury Stage 2 (Cr 1.9 vs baseline 1.2)
+5. Iron Deficiency Anaemia (Ferritin 22, TIBC elevated)
+6. NSAID use (ibuprofen) — likely precipitant of decompensation
+7. Mild Congestive Hepatopathy (elevated bilirubin/transaminases)
+8. Subtherapeutic anticoagulation — adherence issue with rivaroxaban
+
+═══════════════════════════════════════════════════════════════
+HOSPITAL COURSE:
+Days 1-2: IV furosemide 160mg/day (bolus then infusion). Ibuprofen stopped immediately.
+  Supplemental O2. Carvedilol temporarily reduced to 6.25mg BD (decompensated HF).
+  Fluid restriction 1.5L/day. Daily weights. Anticoagulation reviewed — rivaroxaban continued
+  but patient counselled on adherence.
+
+Days 3-4: Excellent diuresis — 2.5-3L negative daily. Weight 84.2 kg (day 4). O2 weaned.
+  Echo performed. IV iron sucrose 200mg given (iron deficiency). Glucose improving with 
+  insulin titration.
+
+Day 5: Weight 83.1 kg. O2 sat 96% RA. Furosemide converted to oral (80mg BD on discharge — 
+  increased from pre-admission 80mg OD). Clinical improvement. Safe for discharge.
+  LACE score: 12 (HIGH RISK — transitional care activated).
+
+═══════════════════════════════════════════════════════════════
+DISCHARGE PLAN:
+- Furosemide 80mg TWICE DAILY (increased — had been once daily)
+- Continue sacubitril/valsartan 49/51mg BD (do not change ARNI dose acutely)
+- Carvedilol: Resume 25mg BD in 1 week when fully compensated
+- Spironolactone: Reduce to 12.5mg (Cr worsened — monitor K+ and creatinine)
+- Rivaroxaban 20mg nocte — counselled on importance of adherence
+- IV iron course — further 400mg iron sucrose as outpatient (2 x 200mg sessions)
+- Continue insulin regimen — endocrinology referral made
+- STOP IBUPROFEN PERMANENTLY — refer to pain clinic for knee pain alternative
+- Atorvastatin 80mg continue
+
+FOLLOW-UP:
+- GP / Primary Care: 5 days (BMP, weight check)
+- Cardiology Outpatient: 2 weeks
+- Nephrology: 3 weeks (CKD progression review)
+- Endocrinology: 4 weeks (diabetes optimisation)
+- Transitional Care Nurse: Phone call in 48 hours
+- Weight threshold: If weight increases >2 kg in 2 days → extra furosemide 40mg AND call GP
+
+PATIENT EDUCATION:
+- Low-sodium diet (<2g Na/day) — reinforced. Dietitian consult completed.
+- Daily weight at same time each morning (before breakfast, after voiding)
+- Fluid restriction: 1.5L/day
+- Medication adherence — pill organiser provided
+- Red flags: Breathlessness worse, ankle swelling worse, weight gain, chest pain → A&E
+
+Attending Physician: Dr. Priya Nair, MD
+Registrar: Dr. James Okafor, MD
+Date of Discharge: 13-Dec-2024

@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.Python
+venv/
+env/
+.venv/
+
+# Environment
+.env
+
+# Data (exclude generated, include samples)
+data/chroma_db/
+data/checkpoints/
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Docker
+.docker/
