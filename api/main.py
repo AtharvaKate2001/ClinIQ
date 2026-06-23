@@ -54,13 +54,7 @@ async def lifespan(app: FastAPI):
 
     # Auto-seed if empty
     if doc_count == 0:
-        logger.info("   Knowledge base empty — seeding medical knowledge...")
-        loop = asyncio.get_event_loop()
-        try:
-            from tools.knowledge_seeder import seed_medical_knowledge
-            await loop.run_in_executor(None, seed_medical_knowledge)
-        except Exception as exc:
-            logger.warning(f"   Seed warning: {exc}")
+        logger.info("Skipping auto-seed on startup")
 
     # Pre-warm the LangGraph workflow (compiles nodes on first call)
     try:
