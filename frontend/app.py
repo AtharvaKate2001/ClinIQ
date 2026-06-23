@@ -28,7 +28,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-API_BASE_URL = os.getenv("API_BASE_URL", "http://localhost:8000")
+API_BASE_URL = os.getenv("API_BASE_URL","https://cliniq-yjib.onrender.com")
 
 # ── Custom CSS ─────────────────────────────────────────────────────────────────
 st.markdown("""
